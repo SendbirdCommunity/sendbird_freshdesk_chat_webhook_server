@@ -105,6 +105,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please contact the maintainer at [your-email@example.com](mailto:your-email@example.com).
 
----
-
-You can customize this README to fit your specific project's needs, such as adding more details about the API, including screenshots, or providing additional context about how the server fits into a larger system. Feel free to replace placeholders like `your-username` and `your-email@example.com` with your actual details.
